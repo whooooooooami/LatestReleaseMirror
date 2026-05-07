@@ -1,1 +1,3 @@
 ceno-app/ceno-android|\.apk
+
+mahsanet/mahsa-alert-mobile-app|\.zip
