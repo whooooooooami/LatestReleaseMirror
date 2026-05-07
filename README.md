@@ -157,5 +157,13 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
+<div id="mahsanet--mahsa-alert-mobile-app"></div>
 
+### mahsanet--mahsa-alert-mobile-app
+
+🔗 [source](https://github.com/mahsanet/mahsa-alert-mobile-app) – [<code><small>V10</small></code>](https://github.com/mahsanet/mahsa-alert-mobile-app/releases/tag/V10)
+
+| File | Size | Download |
+|------|------|----------|
+| `MahsaAlert_Offline_v10.zip` | 51.2 MB | [⬇️ Download](https://raw.githubusercontent.com/whooooooooami/LatestReleaseMirror/main/releases/mahsanet/mahsa-alert-mobile-app/MahsaAlert_Offline_v10.zip) |
 <!-- RELEASES_END -->
