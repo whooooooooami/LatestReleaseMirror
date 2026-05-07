@@ -1,3 +1,23 @@
-ceno-app/ceno-android|\.apk
+ircfspace/teleMirror|\.apk|\.exe
+
+therealaleph/MasterHttpRelayVPN-RUST|\.apk|\.exe
+
+ThisIsDara/mhr-cfw-go|\.apk|\.exe
+
+sartoopjj/thefeed|\.apk|\.exe
+
+anonvector/SlipNet|\.apk|\.exe
+
+GFW-knocker/MahsaNG|\.apk
+
+hiddify/hiddify-app|\.apk|\.exe
+
+UnboundTechCo/defyxVPN|\.apk|\.exe
+
+CluvexStudio/ZedSecure|\.apk|\.exe
+
+KaringX/karing|\.apk|\.exe
 
 mahsanet/mahsa-alert-mobile-app|\.zip
+
+ceno-app/ceno-android|\.apk
