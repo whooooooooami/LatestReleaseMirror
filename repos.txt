@@ -6,6 +6,8 @@ ThisIsDara/mhr-cfw-go|\.apk|\.exe
 
 sartoopjj/thefeed|\.apk|\.exe
 
+anonvector/SlipNet|\.apk|\.exe
+
 GFW-knocker/MahsaNG|\.apk|\.exe
 
 hiddify/hiddify-app|\.apk|\.exe
