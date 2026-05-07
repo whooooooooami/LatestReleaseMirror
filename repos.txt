@@ -6,6 +6,10 @@ ThisIsDara/mhr-cfw-go|\.apk|\.exe
 
 sartoopjj/thefeed|\.apk|\.exe
 
+ceno-app/ceno-desktop|\.apk|\.exe
+
+ceno-app/ceno-android|\.apk|\.exe
+
 anonvector/SlipNet|\.apk|\.exe
 
 GFW-knocker/MahsaNG|\.apk|\.exe
