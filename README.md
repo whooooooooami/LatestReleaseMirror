@@ -228,6 +228,26 @@ sha256sum FILE_NAME
 
 ---
 
+<div id="anonvector--slipnet"></div>
+
+### anonvector--SlipNet
+
+🔗 [source](https://github.com/anonvector/SlipNet) – [<code><small>v2.5.3</small></code>](https://github.com/anonvector/SlipNet/releases/tag/v2.5.3)
+
+| File | Size | Download |
+|------|------|----------|
+| `SlipNet-v2.5.3-full-release-arm64-v8a.apk` | 25.6 MB | [⬇️ Download](https://raw.githubusercontent.com/whooooooooami/LatestReleaseMirror/main/releases/anonvector/SlipNet/SlipNet-v2.5.3-full-release-arm64-v8a.apk) |
+| `SlipNet-v2.5.3-full-release-armeabi-v7a.apk` | 24.8 MB | [⬇️ Download](https://raw.githubusercontent.com/whooooooooami/LatestReleaseMirror/main/releases/anonvector/SlipNet/SlipNet-v2.5.3-full-release-armeabi-v7a.apk) |
+| `SlipNet-v2.5.3-full-release-universal.apk` | 54.6 MB | [⬇️ Download](https://raw.githubusercontent.com/whooooooooami/LatestReleaseMirror/main/releases/anonvector/SlipNet/SlipNet-v2.5.3-full-release-universal.apk) |
+| `SlipNet-v2.5.3-full-release-x86_64.apk` | 13.9 MB | [⬇️ Download](https://raw.githubusercontent.com/whooooooooami/LatestReleaseMirror/main/releases/anonvector/SlipNet/SlipNet-v2.5.3-full-release-x86_64.apk) |
+| `SlipNet-v2.5.3-lite-release-arm64-v8a.apk` | 10.6 MB | [⬇️ Download](https://raw.githubusercontent.com/whooooooooami/LatestReleaseMirror/main/releases/anonvector/SlipNet/SlipNet-v2.5.3-lite-release-arm64-v8a.apk) |
+| `SlipNet-v2.5.3-lite-release-armeabi-v7a.apk` | 10.5 MB | [⬇️ Download](https://raw.githubusercontent.com/whooooooooami/LatestReleaseMirror/main/releases/anonvector/SlipNet/SlipNet-v2.5.3-lite-release-armeabi-v7a.apk) |
+| `SlipNet-v2.5.3-lite-release-universal.apk` | 22.5 MB | [⬇️ Download](https://raw.githubusercontent.com/whooooooooami/LatestReleaseMirror/main/releases/anonvector/SlipNet/SlipNet-v2.5.3-lite-release-universal.apk) |
+| `SlipNet-v2.5.3-lite-release-x86_64.apk` | 11.2 MB | [⬇️ Download](https://raw.githubusercontent.com/whooooooooami/LatestReleaseMirror/main/releases/anonvector/SlipNet/SlipNet-v2.5.3-lite-release-x86_64.apk) |
+| `slipnet-windows-amd64.exe` | 11.1 MB | [⬇️ Download](https://raw.githubusercontent.com/whooooooooami/LatestReleaseMirror/main/releases/anonvector/SlipNet/slipnet-windows-amd64.exe) |
+
+---
+
 <div id="hiddify--hiddify-app"></div>
 
 ### hiddify--hiddify-app
