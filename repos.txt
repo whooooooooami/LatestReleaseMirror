@@ -10,6 +10,8 @@ anonvector/SlipNet|\.apk|\.exe
 
 GFW-knocker/MahsaNG|\.apk
 
+anonvector/SlipNet|\.apk|\.exe
+
 hiddify/hiddify-app|\.apk|\.exe
 
 UnboundTechCo/defyxVPN|\.apk|\.exe
