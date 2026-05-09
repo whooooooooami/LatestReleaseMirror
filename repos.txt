@@ -22,4 +22,6 @@ KaringX/karing|\.apk|\.exe
 
 mahsanet/mahsa-alert-mobile-app|\.zip
 
+RostamVPN/nooshdaroo|\.exe
+
 ceno-app/ceno-android|\.apk
