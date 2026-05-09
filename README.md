@@ -200,6 +200,18 @@ sha256sum FILE_NAME
 
 ---
 
+<div id="rostamvpn--nooshdaroo"></div>
+
+### RostamVPN--nooshdaroo
+
+🔗 [source](https://github.com/RostamVPN/nooshdaroo) – [<code><small>v3.0.0</small></code>](https://github.com/RostamVPN/nooshdaroo/releases/tag/v3.0.0)
+
+| File | Size | Download |
+|------|------|----------|
+| `nooshdaroo-windows-x86_64.exe` | 3.4 MB | [⬇️ Download](https://raw.githubusercontent.com/whooooooooami/LatestReleaseMirror/main/releases/RostamVPN/nooshdaroo/nooshdaroo-windows-x86_64.exe) |
+
+---
+
 <div id="thisisdara--mhr-cfw-go"></div>
 
 ### ThisIsDara--mhr-cfw-go
@@ -276,13 +288,13 @@ sha256sum FILE_NAME
 
 ### sartoopjj--thefeed
 
-🔗 [source](https://github.com/sartoopjj/thefeed) – [<code><small>v0.17.4</small></code>](https://github.com/sartoopjj/thefeed/releases/tag/v0.17.4)
+🔗 [source](https://github.com/sartoopjj/thefeed) – [<code><small>v0.17.5</small></code>](https://github.com/sartoopjj/thefeed/releases/tag/v0.17.5)
 
 | File | Size | Download |
 |------|------|----------|
-| `thefeed-android-v0.17.4-arm64-v8a.apk` | 8.9 MB | [⬇️ Download](https://raw.githubusercontent.com/whooooooooami/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-android-v0.17.4-arm64-v8a.apk) |
-| `thefeed-android-v0.17.4-armeabi-v7a.apk` | 9.1 MB | [⬇️ Download](https://raw.githubusercontent.com/whooooooooami/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-android-v0.17.4-armeabi-v7a.apk) |
-| `thefeed-client-v0.17.4-windows-amd64.exe` | 3.4 MB | [⬇️ Download](https://raw.githubusercontent.com/whooooooooami/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-client-v0.17.4-windows-amd64.exe) |
+| `thefeed-android-v0.17.5-arm64-v8a.apk` | 8.9 MB | [⬇️ Download](https://raw.githubusercontent.com/whooooooooami/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-android-v0.17.5-arm64-v8a.apk) |
+| `thefeed-android-v0.17.5-armeabi-v7a.apk` | 9.1 MB | [⬇️ Download](https://raw.githubusercontent.com/whooooooooami/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-android-v0.17.5-armeabi-v7a.apk) |
+| `thefeed-client-v0.17.5-windows-amd64.exe` | 3.2 MB | [⬇️ Download](https://raw.githubusercontent.com/whooooooooami/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-client-v0.17.5-windows-amd64.exe) |
 | `thefeed-server-windows-amd64.exe` | 3.8 MB | [⬇️ Download](https://raw.githubusercontent.com/whooooooooami/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-server-windows-amd64.exe) |
 
 ---
