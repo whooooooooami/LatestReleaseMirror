@@ -1,4 +1,4 @@
-ircfspace/teleMirror|\.apk|\.exe
+ircfspace/teleMirror|\.zip
 
 therealaleph/MasterHttpRelayVPN-RUST|\.apk|\.exe
 
