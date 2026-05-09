@@ -1,7 +1,7 @@
 {
-  "tag": "v2.7.1",
+  "tag": "v3.2.0",
   "status": "stable",
-  "published_at": "2026-05-07T07:04:10Z",
+  "published_at": "2026-05-09T15:18:33Z",
   "filter_pattern": ".apk|.exe",
-  "updated_at": "2026-05-08T22:09:36Z"
+  "updated_at": "2026-05-09T19:43:00Z"
 }
