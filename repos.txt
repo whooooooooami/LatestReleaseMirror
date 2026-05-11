@@ -24,4 +24,6 @@ mahsanet/mahsa-alert-mobile-app|\.zip
 
 RostamVPN/nooshdaroo|\.exe
 
+iampedii/WhiteDNS|\.apk
+
 ceno-app/ceno-android|\.apk
