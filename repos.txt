@@ -1,16 +1,18 @@
 ircfspace/teleMirror|\.zip
 
+sartoopjj/thefeed|\.apk|\.exe
+
+
+
+iampedii/WhiteDNS|\.apk
+
 therealaleph/MasterHttpRelayVPN-RUST|\.apk|\.exe
 
 ThisIsDara/mhr-cfw-go|\.apk|\.exe
 
-sartoopjj/thefeed|\.apk|\.exe
-
 anonvector/SlipNet|\.apk|\.exe
 
 GFW-knocker/MahsaNG|\.apk
-
-anonvector/SlipNet|\.apk|\.exe
 
 hiddify/hiddify-app|\.apk|\.exe
 
@@ -20,10 +22,10 @@ CluvexStudio/ZedSecure|\.apk|\.exe
 
 KaringX/karing|\.apk|\.exe
 
-mahsanet/mahsa-alert-mobile-app|\.zip
-
 RostamVPN/nooshdaroo|\.exe
 
-iampedii/WhiteDNS|\.apk
+
+
+mahsanet/mahsa-alert-mobile-app|\.zip
 
 ceno-app/ceno-android|\.apk
